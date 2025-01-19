@@ -58,5 +58,9 @@ print(random_integers,"\n")
 random_normal = np.random.randn(5)  # 5 random numbers from a normal distribution
 print(random_normal)
 
+#shape attribute returns a tuple representing the dimensions of the array ie rows and columns
+#size attribute returns the total number of elements in the array
+#ndim attribute returns the number of dimensions (axes) of the array
+print(arr_2d.shape, arr_2d.size, arr_2d.ndim)
 
 
