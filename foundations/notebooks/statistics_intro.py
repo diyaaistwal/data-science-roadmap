@@ -20,4 +20,4 @@ plt.xlabel('Values')
 plt.ylabel('Frequency')
 plt.show()
 
-mean, median, variance, std_deviation
+#mean, median, variance, std_deviation
