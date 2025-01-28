@@ -5,6 +5,6 @@ This section covers the core concepts required to get started with Data Science.
 ## Topics Included:
 - **Statistics**: Understanding fundamental statistical concepts such as mean, median, variance, standard deviation, and probability distributions.
 - **SQL**: Learning how to use SQL to interact with databases, perform queries, and manipulate data.
-- **Basic Data Analysis**: Introduction to using Python and Pandas for data manipulation, cleaning, and exploration.
+- **Basic Data Analysis**: Introduction to using Python, Numpy and Pandas for data manipulation, cleaning, and exploration.
 
 These foundations will help you build a solid base for your data science journey.
